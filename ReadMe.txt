@@ -1,0 +1,1 @@
+This is a project for Udacity class work. Exploratory analysis. Very fun and educational. Data Set is from a public data source.
